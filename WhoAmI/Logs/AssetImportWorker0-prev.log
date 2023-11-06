@@ -1,127 +1,127 @@
 Using pre-set license
 Built from '2020.3/staging' branch; Version is '2020.3.46f1 (18bc01a066b4) revision 1620993'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10  (10.0.19044) 64bit Professional' Language: 'es' Physical Memory: 16269 MB
+OS: 'Windows 10  (10.0.19045) 64bit Core' Language: 'es' Physical Memory: 16149 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
 COMMAND LINE ARGUMENTS:
-C:\Program Files\Unity\Hub\Editor\2020.3.46f1\Editor\Unity.exe
+D:\Programas\Unity\Installs\2020.3.46f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/Usuario/Documents/GitHub/Mulholand-Drive/WhoAmI
+D:/Clase/Unity/Mulholand-Drive/WhoAmI
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-60575
-Successfully changed project path to: C:/Users/Usuario/Documents/GitHub/Mulholand-Drive/WhoAmI
-C:/Users/Usuario/Documents/GitHub/Mulholand-Drive/WhoAmI
+54553
+Successfully changed project path to: D:/Clase/Unity/Mulholand-Drive/WhoAmI
+D:/Clase/Unity/Mulholand-Drive/WhoAmI
 Using Asset Import Pipeline V2.
-Player connection [9700] Host "[IP] 192.168.1.135 [Port] 3221443040 [Flags] 2 [Guid] 425255885 [EditorId] 425255885 [Version] 1048832 [Id] WindowsEditor(7,ivan) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [12312] Host "[IP] 192.168.1.45 [Port] 3489878496 [Flags] 2 [Guid] 4210572167 [EditorId] 4210572167 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-6VCH8GD) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [9700] Host "[IP] 192.168.1.135 [Port] 3221443040 [Flags] 2 [Guid] 425255885 [EditorId] 425255885 [Version] 1048832 [Id] WindowsEditor(7,ivan) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [12312] Host "[IP] 192.168.1.45 [Port] 3489878496 [Flags] 2 [Guid] 4210572167 [EditorId] 4210572167 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-6VCH8GD) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
-Refreshing native plugins compatible for Editor in 38.78 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 20.34 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.46f1 (18bc01a066b4)
-[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.46f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/Usuario/Documents/GitHub/Mulholand-Drive/WhoAmI/Assets
+[Subsystems] Discovering subsystems at path D:/Programas/Unity/Installs/2020.3.46f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Clase/Unity/Mulholand-Drive/WhoAmI/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce GTX 1660 Ti (ID=0x2182)
+    Renderer: NVIDIA GeForce GTX 1060 3GB (ID=0x1c02)
     Vendor:   
-    VRAM:     5979 MB
-    Driver:   31.0.15.3713
+    VRAM:     2979 MB
+    Driver:   31.0.15.3758
 Initialize mono
-Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.46f1/Editor/Data/Managed'
-Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.46f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.46f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56300
+Mono path[0] = 'D:/Programas/Unity/Installs/2020.3.46f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Programas/Unity/Installs/2020.3.46f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Programas/Unity/Installs/2020.3.46f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56484
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.46f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.005087 seconds.
+Register platform support module: D:/Programas/Unity/Installs/2020.3.46f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.000910 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 40.41 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 19.44 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.787 seconds
+- Completed reload, in  0.368 seconds
 Domain Reload Profiling:
-	ReloadAssembly (788ms)
-		BeginReloadAssembly (113ms)
+	ReloadAssembly (368ms)
+		BeginReloadAssembly (48ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (572ms)
-			LoadAssemblies (108ms)
+		EndReloadAssembly (277ms)
+			LoadAssemblies (47ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (206ms)
+			SetupTypeCache (90ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (39ms)
-			SetupLoadedEditorAssemblies (199ms)
+			RebuildScriptCaches (20ms)
+			SetupLoadedEditorAssemblies (106ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (6ms)
+				InitializePlatformSupportModulesInManaged (3ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (41ms)
-				BeforeProcessingInitializeOnLoad (10ms)
-				ProcessInitializeOnLoadAttributes (106ms)
-				ProcessInitializeOnLoadMethodAttributes (36ms)
+				RefreshPlugins (19ms)
+				BeforeProcessingInitializeOnLoad (9ms)
+				ProcessInitializeOnLoadAttributes (56ms)
+				ProcessInitializeOnLoadMethodAttributes (19ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.005939 seconds.
+Registered in 0.001775 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.30 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.20 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.555 seconds
+- Completed reload, in  0.770 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1556ms)
-		BeginReloadAssembly (200ms)
+	ReloadAssembly (770ms)
+		BeginReloadAssembly (101ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (5ms)
+			DisableScriptedObjects (3ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (21ms)
-		EndReloadAssembly (1269ms)
-			LoadAssemblies (153ms)
+			CreateAndSetChildDomain (13ms)
+		EndReloadAssembly (633ms)
+			LoadAssemblies (69ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (374ms)
+			SetupTypeCache (167ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (51ms)
-			SetupLoadedEditorAssemblies (611ms)
+			RebuildScriptCaches (26ms)
+			SetupLoadedEditorAssemblies (334ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (5ms)
-				SetLoadedEditorAssemblies (1ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (0ms)
-				BeforeProcessingInitializeOnLoad (80ms)
-				ProcessInitializeOnLoadAttributes (500ms)
-				ProcessInitializeOnLoadMethodAttributes (11ms)
-				AfterProcessingInitializeOnLoad (15ms)
+				BeforeProcessingInitializeOnLoad (49ms)
+				ProcessInitializeOnLoadAttributes (273ms)
+				ProcessInitializeOnLoadMethodAttributes (6ms)
+				AfterProcessingInitializeOnLoad (2ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (3ms)
+			AwakeInstancesAfterBackupRestoration (1ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
-Refreshing native plugins compatible for Editor in 0.31 ms, found 2 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.23 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1317 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 63.6 MB.
 System memory in use after: 63.6 MB.
 
 Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1754.
-Total: 3.759100 ms (FindLiveObjects: 0.159600 ms CreateObjectMapping: 0.059200 ms MarkObjects: 3.429900 ms  DeleteObjects: 0.109200 ms)
+Total: 2.000400 ms (FindLiveObjects: 0.076600 ms CreateObjectMapping: 0.023100 ms MarkObjects: 1.851900 ms  DeleteObjects: 0.048000 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -135,49 +135,1291 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/Prefabs/Casa/Pared/Pared2Largo.prefab
-  artifactKey: Guid(4756f9f2eeb94fc4682d6a4e8236a77c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Casa/Pared/Pared2Largo.prefab using Guid(4756f9f2eeb94fc4682d6a4e8236a77c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f861b5326abde523c71c2953fcb60c71') in 0.201164 seconds 
+  path: Assets/ModularHousePack1
+  artifactKey: Guid(49d1454978d8881438ab47334a552e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularHousePack1 using Guid(49d1454978d8881438ab47334a552e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09d4db33f087056ef2a3c6d237effc26') in 0.006446 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000371 seconds.
-  path: Assets/Prefabs/Casa/Suelo/3x3Suelo.prefab
-  artifactKey: Guid(c3f7dbda5c20dba41bf46d91ebb7412e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Casa/Suelo/3x3Suelo.prefab using Guid(c3f7dbda5c20dba41bf46d91ebb7412e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fd90d03f7ec90d13b5cb73cad99fc8a') in 0.063597 seconds 
+  Time since last request: 4.177540 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.006929 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000272 seconds.
-  path: Assets/Prefabs/Casa/Pared/Pared3Largo Variant.prefab
-  artifactKey: Guid(bdd2a656cfc71ba40a5a2c7cab48d4e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Casa/Pared/Pared3Largo Variant.prefab using Guid(bdd2a656cfc71ba40a5a2c7cab48d4e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a7a30dd635a1352dfd26d27ec40215c') in 0.044078 seconds 
+  Time since last request: 5.203119 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(5beb683105e285240b428a2e6893c149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(5beb683105e285240b428a2e6893c149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e57ee26565a8aab79e765c735af95457') in 0.006163 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001765 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.704 seconds
+Domain Reload Profiling:
+	ReloadAssembly (705ms)
+		BeginReloadAssembly (95ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (25ms)
+		EndReloadAssembly (571ms)
+			LoadAssemblies (76ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (171ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (22ms)
+			SetupLoadedEditorAssemblies (273ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (45ms)
+				ProcessInitializeOnLoadAttributes (217ms)
+				ProcessInitializeOnLoadMethodAttributes (6ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (1ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1314 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.5 MB.
+System memory in use after: 63.6 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1760.
+Total: 2.222900 ms (FindLiveObjects: 0.073400 ms CreateObjectMapping: 0.023900 ms MarkObjects: 2.107800 ms  DeleteObjects: 0.017300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000320 seconds.
-  path: Assets/Prefabs/Casa/Pared/ParedVentana.prefab
-  artifactKey: Guid(9fc081be50d4e484e9b39510d5363589) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Casa/Pared/ParedVentana.prefab using Guid(9fc081be50d4e484e9b39510d5363589) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '746d1be72b74b7c29f62d8164c52cb4f') in 0.078873 seconds 
+  Time since last request: 17.717423 seconds.
+  path: Assets/Inventario.cs
+  artifactKey: Guid(b99dde0ded167d9488f382f9cf44dc4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inventario.cs using Guid(b99dde0ded167d9488f382f9cf44dc4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c0ce60a7093a2ce23f4d9598ebfa381') in 0.018908 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001787 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.786 seconds
+Domain Reload Profiling:
+	ReloadAssembly (786ms)
+		BeginReloadAssembly (85ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (24ms)
+		EndReloadAssembly (665ms)
+			LoadAssemblies (69ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (195ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (24ms)
+			SetupLoadedEditorAssemblies (336ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (52ms)
+				ProcessInitializeOnLoadAttributes (271ms)
+				ProcessInitializeOnLoadMethodAttributes (6ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (1ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1314 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.5 MB.
+System memory in use after: 63.6 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1763.
+Total: 2.229000 ms (FindLiveObjects: 0.094200 ms CreateObjectMapping: 0.029600 ms MarkObjects: 2.082900 ms  DeleteObjects: 0.021200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 14.432223 seconds.
+  path: Assets/ModularHousePack1/Prefabs
+  artifactKey: Guid(fbc57c4668181bb4ba578e7c1b0d581f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularHousePack1/Prefabs using Guid(fbc57c4668181bb4ba578e7c1b0d581f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ae705744092f34a52b78750af27fa3e') in 0.008406 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.684759 seconds.
+  path: Assets/ModularHousePack1/Prefabs/Modules
+  artifactKey: Guid(0cfa9204129c6e94bba72005d36514d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularHousePack1/Prefabs/Modules using Guid(0cfa9204129c6e94bba72005d36514d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bab9915bc7e5157bed94d57e55ce8d21') in 0.006202 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.135127 seconds.
+  path: Assets/ModularHousePack1/Prefabs/Modules/Floors
+  artifactKey: Guid(931123ac96e0b8b4786bfcd578a2c6c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularHousePack1/Prefabs/Modules/Floors using Guid(931123ac96e0b8b4786bfcd578a2c6c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c740bb75395dc2cb0c5b3b69590e5336') in 0.006399 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.075543 seconds.
+  path: Assets/ModularHousePack1/Prefabs/Modules/Floors/Floor2.prefab
+  artifactKey: Guid(98ccaac5ef4cded498a86349bc17f210) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularHousePack1/Prefabs/Modules/Floors/Floor2.prefab using Guid(98ccaac5ef4cded498a86349bc17f210) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69abf1693a6208feb99f571eacdec795') in 0.091974 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/ModularHousePack1/Prefabs/Modules/Floors/RoofFloor.prefab
+  artifactKey: Guid(beb740d872f755c4797491edaa67e321) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularHousePack1/Prefabs/Modules/Floors/RoofFloor.prefab using Guid(beb740d872f755c4797491edaa67e321) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bdf1012ae7e028c1ce3b0d7acd1d349') in 0.024079 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.702656 seconds.
+  path: Assets/ModularHousePack1/Prefabs/Modules/Floors/Parts
+  artifactKey: Guid(9523b7928e342894eab252a2f29638bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularHousePack1/Prefabs/Modules/Floors/Parts using Guid(9523b7928e342894eab252a2f29638bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '884d9fa0eefff9ce724ed85b99a13ea4') in 0.006243 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.077578 seconds.
+  path: Assets/ModularHousePack1/Prefabs/Modules/Floors/Parts/Interior_Floor.prefab
+  artifactKey: Guid(fe09c155ffafe1c4d91d6ebd42d1f5aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularHousePack1/Prefabs/Modules/Floors/Parts/Interior_Floor.prefab using Guid(fe09c155ffafe1c4d91d6ebd42d1f5aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '976e09d80f5219d926807a9be177e60a') in 0.012751 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/ModularHousePack1/Prefabs/Modules/Floors/Parts/Interior_Floor_Up.prefab
+  artifactKey: Guid(989a9b55bc3f4ec428b6f8a1b6783c8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularHousePack1/Prefabs/Modules/Floors/Parts/Interior_Floor_Up.prefab using Guid(989a9b55bc3f4ec428b6f8a1b6783c8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48a6a510e8e6d621014f7a084f3fb3e1') in 0.016753 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/ModularHousePack1/Prefabs/Modules/Floors/Parts/Interior_FloorToRoof_Up.prefab
+  artifactKey: Guid(515421c9cde82904484842a01492abf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularHousePack1/Prefabs/Modules/Floors/Parts/Interior_FloorToRoof_Up.prefab using Guid(515421c9cde82904484842a01492abf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c8b7fd9faea639bb230eb6826378042') in 0.015644 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/ModularHousePack1/Prefabs/Modules/Floors/Parts/Interior_FloorToRoof.prefab
+  artifactKey: Guid(3e97ec32f94307548bbf0a0346589316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularHousePack1/Prefabs/Modules/Floors/Parts/Interior_FloorToRoof.prefab using Guid(3e97ec32f94307548bbf0a0346589316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '140c41482c2c2a62d979feda65abc055') in 0.014391 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.232907 seconds.
+  path: Assets/ModularHousePack1/Prefabs/Modules/Walls
+  artifactKey: Guid(4028ab6e773a45443baaa3b1589c1367) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularHousePack1/Prefabs/Modules/Walls using Guid(4028ab6e773a45443baaa3b1589c1367) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5955585f8bcfead71100134bc9dfde31') in 0.006197 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.087176 seconds.
+  path: Assets/ModularHousePack1/Prefabs/Modules/Walls/Wall_1A.prefab
+  artifactKey: Guid(44af88ee9fc28e043adf0e6fb2befd88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularHousePack1/Prefabs/Modules/Walls/Wall_1A.prefab using Guid(44af88ee9fc28e043adf0e6fb2befd88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db54b8f67df3a0f9e8c038f78e024d4d') in 0.018039 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.642192 seconds.
+  path: Assets/ModularHousePack1/Prefabs/Modules/Window
+  artifactKey: Guid(1eb3fbbb6c639834ba67032471d29970) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularHousePack1/Prefabs/Modules/Window using Guid(1eb3fbbb6c639834ba67032471d29970) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '818322ad3691993df7324f9c34840bbd') in 0.005982 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.061377 seconds.
+  path: Assets/ModularHousePack1/Prefabs/Modules/Window/Window_1A.prefab
+  artifactKey: Guid(c2327c57515b43d41ba2728111012dfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModularHousePack1/Prefabs/Modules/Window/Window_1A.prefab using Guid(c2327c57515b43d41ba2728111012dfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a45a4fe6401098f9552eedc265ba144d') in 0.038735 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.378815 seconds.
+  path: Assets/Resources
+  artifactKey: Guid(d0e01407c1748da4b84db151fd947ea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources using Guid(d0e01407c1748da4b84db151fd947ea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5ca1a3f94036a0d31096360df27949e') in 0.006661 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.856739 seconds.
+  path: Assets/Resources/Audios
+  artifactKey: Guid(66b387fa4ec23d94a8b99a9561c2cb01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios using Guid(66b387fa4ec23d94a8b99a9561c2cb01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9297f8848829306b93efee9c7f3ce2db') in 0.006195 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.908443 seconds.
+  path: Assets/Resources/Audios/Ambientación
+  artifactKey: Guid(9d923c14121747540ab01720f0e50543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Ambientación using Guid(9d923c14121747540ab01720f0e50543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5220619cbdec18921ccd0df3fc05fd3') in 0.006086 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.667430 seconds.
+  path: Assets/Resources/Audios/Ambientación/ArañandoMadera.mp3
+  artifactKey: Guid(ed64098173b9b7242902c9d4d3fd7971) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Ambientación/ArañandoMadera.mp3 using Guid(ed64098173b9b7242902c9d4d3fd7971) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f7fda171029c751d6b1dcfe220c5541') in 0.019459 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Resources/Audios/Ambientación/PasosCorrerDchaAlanteAtras.mp3
+  artifactKey: Guid(0b1a3e4598f52d94499c9d2d8a88044c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Ambientación/PasosCorrerDchaAlanteAtras.mp3 using Guid(0b1a3e4598f52d94499c9d2d8a88044c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '289c3acae9f4faafe565676ff7d0a977') in 0.008970 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Resources/Audios/Ambientación/PasosIzqAlanteAtras.mp3
+  artifactKey: Guid(b8c6e732109fb104398db071799e71b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Ambientación/PasosIzqAlanteAtras.mp3 using Guid(b8c6e732109fb104398db071799e71b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5771790420ba9e037686b96651cd589f') in 0.011164 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/Resources/Audios/Ambientación/BombillaDefectuosa.mp3
+  artifactKey: Guid(830f1cf6d197363408c32e0e0f16dfe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Ambientación/BombillaDefectuosa.mp3 using Guid(830f1cf6d197363408c32e0e0f16dfe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82ec5392a0d4bad2571f408b309205f9') in 0.012089 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/Resources/Audios/Ambientación/MonedaCayendo.mp3
+  artifactKey: Guid(5e7473d1a4520c248898fe5e3d7a021c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Ambientación/MonedaCayendo.mp3 using Guid(5e7473d1a4520c248898fe5e3d7a021c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbf77f2124eec05a6178fe8494ae321c') in 0.009033 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/Resources/Audios/Ambientación/LibroCayendo.mp3
+  artifactKey: Guid(078824e7bce0a8740803cc082de21a2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Ambientación/LibroCayendo.mp3 using Guid(078824e7bce0a8740803cc082de21a2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46232477a032860b3110db2936f3f75c') in 0.009911 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/Resources/Audios/Ambientación/HojasMoviendose.mp3
+  artifactKey: Guid(d337164cf18c9aa42825c7e411095785) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Ambientación/HojasMoviendose.mp3 using Guid(d337164cf18c9aa42825c7e411095785) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f83ce1c6652df41333fa9539390f18c') in 0.010172 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Resources/Audios/Ambientación/ObjetoCayendoEnChapaMetalica.mp3
+  artifactKey: Guid(64b2c309405d7684f8c00fc68fd6f1e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Ambientación/ObjetoCayendoEnChapaMetalica.mp3 using Guid(64b2c309405d7684f8c00fc68fd6f1e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4ef6ecabfafd73cbe61a121f750185e') in 0.012065 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Resources/Audios/Ambientación/PasosHojas.mp3
+  artifactKey: Guid(f6e91844a4722a94eb16b96291c484fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Ambientación/PasosHojas.mp3 using Guid(f6e91844a4722a94eb16b96291c484fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0a9b471100d527e236596f423cb3550') in 0.011151 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Resources/Audios/Ambientación/VientoAmbientación.mp3
+  artifactKey: Guid(a605faaf0114c8747b8749e3cd76b326) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Ambientación/VientoAmbientación.mp3 using Guid(a605faaf0114c8747b8749e3cd76b326) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38bd969b4212792a9c91280f5fd204d5') in 0.009097 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/Resources/Audios/Ambientación/PuertaCerrar.mp3
+  artifactKey: Guid(53f8c0a2684c74f42a76808b632e5430) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Ambientación/PuertaCerrar.mp3 using Guid(53f8c0a2684c74f42a76808b632e5430) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0777b1bd7c320a5b5977255b5380d82') in 0.010517 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000107 seconds.
+  path: Assets/Resources/Audios/Ambientación/PasosHierbaGrilloAmbiente.mp3
+  artifactKey: Guid(a61ad627c56ccea488f4ad20dd583bb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Ambientación/PasosHierbaGrilloAmbiente.mp3 using Guid(a61ad627c56ccea488f4ad20dd583bb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c476d2fe86afb6496d3f3a1ede4ddc0') in 0.012061 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000110 seconds.
+  path: Assets/Resources/Audios/Ambientación/PasosIzqAtrasAlante.mp3
+  artifactKey: Guid(57811500aefbf4d40a83808e3c085f7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Ambientación/PasosIzqAtrasAlante.mp3 using Guid(57811500aefbf4d40a83808e3c085f7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9ce53ef6c652070bdaa8a50e1b9c736') in 0.011710 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/Resources/Audios/Ambientación/PicarPuertaIzquierda.mp3
+  artifactKey: Guid(67eed97b4b4160840b39fbf1791742e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Ambientación/PicarPuertaIzquierda.mp3 using Guid(67eed97b4b4160840b39fbf1791742e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37fae165db6c6f523ff5da7afc17f035') in 0.010856 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/Resources/Audios/Ambientación/RadioSintonizando.mp3
+  artifactKey: Guid(9160d64ec0af9c144b780a9d0f5e5a27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Ambientación/RadioSintonizando.mp3 using Guid(9160d64ec0af9c144b780a9d0f5e5a27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b97a4b5bb5a0433d646809c9fd398f79') in 0.012781 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000101 seconds.
+  path: Assets/Resources/Audios/Ambientación/MuebleCayendo.mp3
+  artifactKey: Guid(1dde3c35d4498254ea2051c6254dde93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Ambientación/MuebleCayendo.mp3 using Guid(1dde3c35d4498254ea2051c6254dde93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce7a0d59e6d4a6e808625d29503bf586') in 0.010023 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Resources/Audios/Ambientación/GramofonoMiedu.mp3
+  artifactKey: Guid(6d44cd162a7f274419749e2a533f450e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Ambientación/GramofonoMiedu.mp3 using Guid(6d44cd162a7f274419749e2a533f450e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29e0ad91eadc23828ebd768fed4015dc') in 0.012448 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Resources/Audios/Ambientación/PuertaAbrir.mp3
+  artifactKey: Guid(c54afdd85e034364292896b80b207bb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Ambientación/PuertaAbrir.mp3 using Guid(c54afdd85e034364292896b80b207bb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33064c8081dbd7632f316f05cd53a63f') in 0.013102 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/Resources/Audios/Ambientación/VentanaRompiendo.mp3
+  artifactKey: Guid(e9ac455a85f242c44baf8ed2f8cb68d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Ambientación/VentanaRompiendo.mp3 using Guid(e9ac455a85f242c44baf8ed2f8cb68d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e65e3f1e50743672d5f091134c8535ab') in 0.010715 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Resources/Audios/Ambientación/PasosDchaAtrasAlante.mp3
+  artifactKey: Guid(4f47bdba215d94f48b1050dec32f4281) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Ambientación/PasosDchaAtrasAlante.mp3 using Guid(4f47bdba215d94f48b1050dec32f4281) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52205ccb1f4f307a02a24aaf7bbc0990') in 0.011024 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/Resources/Audios/Ambientación/PicarPuertaDerecha.mp3
+  artifactKey: Guid(4229b9993d5ea704989bdad59da87f36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Ambientación/PicarPuertaDerecha.mp3 using Guid(4229b9993d5ea704989bdad59da87f36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3cee7c719f7c286e9e61919deb033a2') in 0.010871 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/Resources/Audios/Ambientación/ObjetoPequeñoCayendo.mp3
+  artifactKey: Guid(11559bed00db27e499bac0c7f40f1bb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Ambientación/ObjetoPequeñoCayendo.mp3 using Guid(11559bed00db27e499bac0c7f40f1bb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71120d2c9407e8752f0d4691d2697ba0') in 0.009222 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000381 seconds.
+  path: Assets/Resources/Audios/Ambientación/VinilloMusicaJodia.mp3
+  artifactKey: Guid(c2ce564dfd35c2046bfcb498c995966e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Ambientación/VinilloMusicaJodia.mp3 using Guid(c2ce564dfd35c2046bfcb498c995966e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6952f51f2dd3e3bb3486b63922bbb0e') in 0.010199 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Resources/Audios/Ambientación/BebeLlorando.mp3
+  artifactKey: Guid(9cae86b09ef2d6241a6d33d4fb86f8d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Ambientación/BebeLlorando.mp3 using Guid(9cae86b09ef2d6241a6d33d4fb86f8d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6394ad218cf988dd50f17518fa77d0f9') in 0.010302 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/Resources/Audios/Ambientación/MovimientoArbusto.mp3
+  artifactKey: Guid(6c2c7e3cc39828d4c80bfaf935dfa6cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Ambientación/MovimientoArbusto.mp3 using Guid(6c2c7e3cc39828d4c80bfaf935dfa6cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d7bb119dffdd2731db3752deffae3ca') in 0.012300 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 19.167423 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia
+  artifactKey: Guid(ef63fe6d807055e4cba2b81c77290cfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia using Guid(ef63fe6d807055e4cba2b81c77290cfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65d8bd868a0b47d7e15e9bb8b73133d0') in 0.006905 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.956924 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios
+  artifactKey: Guid(d1455d8432d0d4d44a026ec2529d945b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios using Guid(d1455d8432d0d4d44a026ec2529d945b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2304f553d756de3cbfa13cf13c680997') in 0.005960 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.082776 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/(sonidos de mosca).mp3
+  artifactKey: Guid(3da0d526c249e2646a278b70e62195e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/(sonidos de mosca).mp3 using Guid(3da0d526c249e2646a278b70e62195e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec3ecea2aadd5a77fcb648d1d40815a9') in 0.008448 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Donde escondiste el cadaver.mp3
+  artifactKey: Guid(aa0f33f8b6a3f9a499c25b66348e598b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Donde escondiste el cadaver.mp3 using Guid(aa0f33f8b6a3f9a499c25b66348e598b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab7cc551d3f2a942e4acd7ebccfe9fc9') in 0.009338 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/El cielo es de color rojo.mp3
+  artifactKey: Guid(79934dee919503345999b6d9ce690a10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/El cielo es de color rojo.mp3 using Guid(79934dee919503345999b6d9ce690a10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '422d98d6f601e27337bcb47d54f0876d') in 0.009704 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/En algun momento conoceras a mi amigo....mp3
+  artifactKey: Guid(4104c2443542cdf4fa2603b0f163afa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/En algun momento conoceras a mi amigo....mp3 using Guid(4104c2443542cdf4fa2603b0f163afa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e5254f0be71a0693fd7b9332fb38527') in 0.009119 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Porque no llevas camiseta, ponte una camiseta.mp3
+  artifactKey: Guid(e55cb9fba0b1f514bbbbcbbc473633e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Porque no llevas camiseta, ponte una camiseta.mp3 using Guid(e55cb9fba0b1f514bbbbcbbc473633e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56560bb2ec1d65b9ffb28ea4f5c3cb98') in 0.009574 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Cuando la gallina....mp3
+  artifactKey: Guid(18fcfad1112807a478d966e47a6d421f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Cuando la gallina....mp3 using Guid(18fcfad1112807a478d966e47a6d421f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77ecff3377acd5e1c672b65be6376d42') in 0.010339 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/No puedo caminar.mp3
+  artifactKey: Guid(f26ab042c71014f4e891c500b56a4a01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/No puedo caminar.mp3 using Guid(f26ab042c71014f4e891c500b56a4a01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54e31bfd1a3d07141e7b735654a09613') in 0.009640 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000100 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/No habras un coco nunca.mp3
+  artifactKey: Guid(74702b9ef591392468b3bc251fb9d9ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/No habras un coco nunca.mp3 using Guid(74702b9ef591392468b3bc251fb9d9ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebea81e869d5a5b095f43fecb5d2a909') in 0.011199 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Se te acaba de caer algo.mp3
+  artifactKey: Guid(ef1fda42bc2126546a32e1a1ab07ed98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Se te acaba de caer algo.mp3 using Guid(ef1fda42bc2126546a32e1a1ab07ed98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e918967bcd1bd0994419f929c9b0ada') in 0.009875 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Tienes que beber agua.mp3
+  artifactKey: Guid(cde263f951902dd4d9728e6e0cf71bbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Tienes que beber agua.mp3 using Guid(cde263f951902dd4d9728e6e0cf71bbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a5e70ad8ff7554d88d5ac0f3246268f') in 0.010423 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Me da miedo el hardware.mp3
+  artifactKey: Guid(820ac98a611a0bd4e9b3887a3dcdb9fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Me da miedo el hardware.mp3 using Guid(820ac98a611a0bd4e9b3887a3dcdb9fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e95e9822d7548f9a886e927f7dcda7cd') in 0.009107 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Estas seguro de que esta es tu casa.mp3
+  artifactKey: Guid(768a721b983234d42b6d1d08c3e6df7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Estas seguro de que esta es tu casa.mp3 using Guid(768a721b983234d42b6d1d08c3e6df7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '408e8c97a0cd4d579067a2fd3626101a') in 0.008991 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Esto es una grabacion.mp3
+  artifactKey: Guid(e376a1c34f81dd64fa3d5e33a3c37016) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Esto es una grabacion.mp3 using Guid(e376a1c34f81dd64fa3d5e33a3c37016) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54de3a7030a4194c1e65123a0b24a4f5') in 0.010239 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/He cambiado todas las cerraduras de tu casa por instrumentos musicales.mp3
+  artifactKey: Guid(547fb9a4b86510b4293411ec1afe038a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/He cambiado todas las cerraduras de tu casa por instrumentos musicales.mp3 using Guid(547fb9a4b86510b4293411ec1afe038a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9194beb524245f19cf1647479b0219a') in 0.011768 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Ten cuidado no se te caigan los mandos.mp3
+  artifactKey: Guid(f6df00602307d824aaa14ce6d57a7f7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Ten cuidado no se te caigan los mandos.mp3 using Guid(f6df00602307d824aaa14ce6d57a7f7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '263cde2a699e58da7146433a2349366e') in 0.008797 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Espero que ya no te duela la rodilla.mp3
+  artifactKey: Guid(a5527bcf3282d8941a2bda8e19f22b74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Espero que ya no te duela la rodilla.mp3 using Guid(a5527bcf3282d8941a2bda8e19f22b74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af004b7a34f5164e064db31aa6903680') in 0.009084 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Que tal esta tu madre.mp3
+  artifactKey: Guid(e547ac5074ad3914590070396f6ed6cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Que tal esta tu madre.mp3 using Guid(e547ac5074ad3914590070396f6ed6cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac10f881ad945291c725f4c0c6089286') in 0.010479 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Has mirado tu cuerpo.mp3
+  artifactKey: Guid(6e32c16e7072f1e47a7ca798b9877993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Has mirado tu cuerpo.mp3 using Guid(6e32c16e7072f1e47a7ca798b9877993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f5026bdd713284cb77becb21f38762e') in 0.009210 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Todo es una ilusión.mp3
+  artifactKey: Guid(bb8f1bf9382beb14dabc66601aea65ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Todo es una ilusión.mp3 using Guid(bb8f1bf9382beb14dabc66601aea65ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e011e14858a2fa7e854cae4207e4a497') in 0.009090 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Creo que me voy a callar un poco.mp3
+  artifactKey: Guid(50739144266805a4e9e3e4b3d8f63590) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Creo que me voy a callar un poco.mp3 using Guid(50739144266805a4e9e3e4b3d8f63590) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf4a718edfd8cba48b54561f09a356dc') in 0.012034 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Te has dejado las llaves en casa.mp3
+  artifactKey: Guid(c2b0834b0c0e2494cad5e967cea551eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Te has dejado las llaves en casa.mp3 using Guid(c2b0834b0c0e2494cad5e967cea551eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f50a79e41ada7ddb043a5a1a308b3649') in 0.009724 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Cuidado, no tires el agua.mp3
+  artifactKey: Guid(5a805ef38b184ef4a962f6685dabaec5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Cuidado, no tires el agua.mp3 using Guid(5a805ef38b184ef4a962f6685dabaec5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58eea7ff6dd93120adcf91616cfad04d') in 0.009329 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Te voy a untar en miel cuando menos te lo esperes.mp3
+  artifactKey: Guid(021153ee802318c48ab6cbb53b72a06f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Te voy a untar en miel cuando menos te lo esperes.mp3 using Guid(021153ee802318c48ab6cbb53b72a06f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bda451cf8198c61c362e5cd9beca4517') in 0.009937 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Nada es real todo es una ilusion.mp3
+  artifactKey: Guid(494db7eaa8fd6224aa6e0dac0ffced9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Nada es real todo es una ilusion.mp3 using Guid(494db7eaa8fd6224aa6e0dac0ffced9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24d17921898c8292b607a1fc1c1292f2') in 0.010674 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Dios no existe dios te ha abandonado.mp3
+  artifactKey: Guid(5c0ba0c4c79f19f45befad749da23f01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Dios no existe dios te ha abandonado.mp3 using Guid(5c0ba0c4c79f19f45befad749da23f01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fee67ae6e2945c8735bff39ef0594b9') in 0.009048 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Voy a correr por tu derecha en 3, 2, 1.mp3
+  artifactKey: Guid(bea2f29d6af7e8842910d704fcf40442) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Voy a correr por tu derecha en 3, 2, 1.mp3 using Guid(bea2f29d6af7e8842910d704fcf40442) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f399d3e6c75b8479698694a060eaa228') in 0.009751 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Abrí un centro de masajes el otro día.mp3
+  artifactKey: Guid(cac9b8fba5b2f0140a493a10c7753caf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Abrí un centro de masajes el otro día.mp3 using Guid(cac9b8fba5b2f0140a493a10c7753caf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12a7c55b04b47d37defaac08a7ad9e03') in 0.009758 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Estas sangrando, ponte una tirita.mp3
+  artifactKey: Guid(1a0c1b7f6b28ab34f8d71f892b40c369) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Estas sangrando, ponte una tirita.mp3 using Guid(1a0c1b7f6b28ab34f8d71f892b40c369) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '359aedbed104374c1ee7726fd0262ee0') in 0.010599 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Las multiplicaciones no sirven para nada.mp3
+  artifactKey: Guid(61e8763a993be924f83194e99dff27f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Las multiplicaciones no sirven para nada.mp3 using Guid(61e8763a993be924f83194e99dff27f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad06528ccac783b3b0bee6a0f04974d4') in 0.009546 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Porque me quieres hacer daño.mp3
+  artifactKey: Guid(ce34888c64ed00943afddc044f5774dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Porque me quieres hacer daño.mp3 using Guid(ce34888c64ed00943afddc044f5774dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '912a350dd3015d563c5d6920b7cbe942') in 0.010345 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Cada día estoy mas cerca de ti.mp3
+  artifactKey: Guid(6344b1ab41e75474289e3b0e91ef1399) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Cada día estoy mas cerca de ti.mp3 using Guid(6344b1ab41e75474289e3b0e91ef1399) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68128519066600bfdd3ae20f5b92424c') in 0.009863 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Sube las escaleras de tres en tres.mp3
+  artifactKey: Guid(7a72708efe8e26e4aa9781aaac3e8c69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Sube las escaleras de tres en tres.mp3 using Guid(7a72708efe8e26e4aa9781aaac3e8c69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17cb02d6ed19798f525623caf7039db3') in 0.009390 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Abreme la puerta.mp3
+  artifactKey: Guid(59602c70e8e44a74b99594160bdb7e56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Abreme la puerta.mp3 using Guid(59602c70e8e44a74b99594160bdb7e56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c3eb930ff92bcd64dffadc60c62293a') in 0.010513 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000111 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Tienes que admitir que me hechas de menos.mp3
+  artifactKey: Guid(17afcbb742a512a4fb0b2d4811301a93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Tienes que admitir que me hechas de menos.mp3 using Guid(17afcbb742a512a4fb0b2d4811301a93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03ce937453ad908aa2b35c1f3b97bed9') in 0.012279 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Acuerdate de recoger la ropa.mp3
+  artifactKey: Guid(c827877c3cbbdf041aa801411e5574a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Acuerdate de recoger la ropa.mp3 using Guid(c827877c3cbbdf041aa801411e5574a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd670eda092252372f48ec0d7524e8955') in 0.009123 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Despierta, ya es hora de despertar.mp3
+  artifactKey: Guid(e0de65a227b139542a4350f7e0843763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Despierta, ya es hora de despertar.mp3 using Guid(e0de65a227b139542a4350f7e0843763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '000be80b00129c1f3843c0acb1025d03') in 0.009253 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000103 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Soy una onda electromagnetica.mp3
+  artifactKey: Guid(e892a80f9e7d72749814c58a25b7af60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Soy una onda electromagnetica.mp3 using Guid(e892a80f9e7d72749814c58a25b7af60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38e73e7f89a8085e21e1d503b6a1adc6') in 0.009267 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Vamos a ir a correr, estas invitado.mp3
+  artifactKey: Guid(16d3f6b5d89cf4e4d834aaf1c50f795c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Vamos a ir a correr, estas invitado.mp3 using Guid(16d3f6b5d89cf4e4d834aaf1c50f795c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16aa8bb9e34a22a2a454382358cea848') in 0.011478 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Dale de comer a tu perro.mp3
+  artifactKey: Guid(2a1ceac35eac02046a36827e8b637f10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Dale de comer a tu perro.mp3 using Guid(2a1ceac35eac02046a36827e8b637f10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd6cb3af71db92833cb7c6d3feb7b71a') in 0.009404 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Te pica alguna parte del cuerpo¿.mp3
+  artifactKey: Guid(4149ae7ca2f66a243bbbe10a34dafad2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Te pica alguna parte del cuerpo¿.mp3 using Guid(4149ae7ca2f66a243bbbe10a34dafad2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1020c8cc7c044502d5c6f03365befe30') in 0.009952 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Te estabamos observando el otro dia.mp3
+  artifactKey: Guid(be573064461b4a14aad85c2c9c9d1ed0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Te estabamos observando el otro dia.mp3 using Guid(be573064461b4a14aad85c2c9c9d1ed0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '552ed30e2bcecb0cf4fc7fa228ea7a9c') in 0.010011 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/balsa balsa balsa pato pato pato.mp3
+  artifactKey: Guid(3e20b771409cc7e4ebd2b6a4765e3b70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/balsa balsa balsa pato pato pato.mp3 using Guid(3e20b771409cc7e4ebd2b6a4765e3b70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9340d5522aeafa84ee89036c04110a0f') in 0.008957 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/El viento siempre ha sido artificial.mp3
+  artifactKey: Guid(b77a80dc2bd2fef4b91d35283109f9f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/El viento siempre ha sido artificial.mp3 using Guid(b77a80dc2bd2fef4b91d35283109f9f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '605287c91e2d50d684d18f0f18a1f98c') in 0.009989 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Hola mario.mp3
+  artifactKey: Guid(a3871f0d519db314ca24694ce05f0a77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Hola mario.mp3 using Guid(a3871f0d519db314ca24694ce05f0a77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6109165e4edcab5c73208d44fd4b09d1') in 0.009442 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/No puedes conducir a mas de 120kmh.mp3
+  artifactKey: Guid(f597ecb086c82724b9597590a645470d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/No puedes conducir a mas de 120kmh.mp3 using Guid(f597ecb086c82724b9597590a645470d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5d784df8f1e240c53825b1e93a02a73') in 0.008889 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Estas invitado a mi cumpleaños.mp3
+  artifactKey: Guid(d946d98bff411f044a3fae9afdc6beba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Estas invitado a mi cumpleaños.mp3 using Guid(d946d98bff411f044a3fae9afdc6beba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b0ab307d1c71b432a843dcc14387bf3') in 0.009922 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Tu cabeza te esta engañando.mp3
+  artifactKey: Guid(cfdec7ca6cad83546bb06f5eefa27ff3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Tu cabeza te esta engañando.mp3 using Guid(cfdec7ca6cad83546bb06f5eefa27ff3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f66c3b7711c4920dd3d400861e279518') in 0.010837 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Todo está grabado.mp3
+  artifactKey: Guid(2b6abea41bde29d45b2ebc340a8993d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Todo está grabado.mp3 using Guid(2b6abea41bde29d45b2ebc340a8993d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80cd0220b1de926930a94d2c3e06c2b0') in 0.010086 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Si pasas frio por la noche tapate.mp3
+  artifactKey: Guid(1f00cdb7f9b7f2d458493a362df20e77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Si pasas frio por la noche tapate.mp3 using Guid(1f00cdb7f9b7f2d458493a362df20e77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7624917dffa15abbf5bc61371e6ddf4') in 0.008652 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Vaya calor hace estos dias.mp3
+  artifactKey: Guid(3d1529a0f37d4f542a9c390262859263) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Vaya calor hace estos dias.mp3 using Guid(3d1529a0f37d4f542a9c390262859263) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd36c48a3b968c88c0686f4a3634cec62') in 0.009758 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/¿Tienes ganas de ir al baño¿.mp3
+  artifactKey: Guid(5d3a9133e32633441b9cda7be381ba61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/¿Tienes ganas de ir al baño¿.mp3 using Guid(5d3a9133e32633441b9cda7be381ba61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0aebcdc617076286cf2a7a55400dc75a') in 0.008809 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Nada te asegura que sigas en la misma habitación.mp3
+  artifactKey: Guid(692f2125887cd2c41947e8b1ec830974) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Nada te asegura que sigas en la misma habitación.mp3 using Guid(692f2125887cd2c41947e8b1ec830974) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa57e6c2954cd065967bf439e29b2c18') in 0.008854 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Tienes que bajar a comprar.mp3
+  artifactKey: Guid(5774c7ca5a56d0445a020b80d94f65e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Tienes que bajar a comprar.mp3 using Guid(5774c7ca5a56d0445a020b80d94f65e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '477b463611482f157bc4804ca3bc564f') in 0.010033 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/No hay banda.mp3
+  artifactKey: Guid(56355ca075524f040979e0f4cb6b9886) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/No hay banda.mp3 using Guid(56355ca075524f040979e0f4cb6b9886) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77c95ec23bc524b657bc360db34e8c08') in 0.009091 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/En verdad estoy siguiendo un guión.mp3
+  artifactKey: Guid(fc2ea61516edc164a84c748c41a274e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/En verdad estoy siguiendo un guión.mp3 using Guid(fc2ea61516edc164a84c748c41a274e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd68caf7c0bea40a1e1743e1976f3b251') in 0.009706 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Te voy a pinchar, no te muevas.mp3
+  artifactKey: Guid(b62f90259aa98644bbecc095f8f06262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Te voy a pinchar, no te muevas.mp3 using Guid(b62f90259aa98644bbecc095f8f06262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dde4f6cfe4ac2f0343e0c0238c4a6a11') in 0.010034 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Voy a subrayar mi casa, quiero subrayar mi casa.mp3
+  artifactKey: Guid(1787a554d293bb74b8403468ec7e2050) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Voy a subrayar mi casa, quiero subrayar mi casa.mp3 using Guid(1787a554d293bb74b8403468ec7e2050) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2745943d71356d0fd6b58c706322623c') in 0.009395 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000111 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/¿Tienes bien puestas las gafas.mp3
+  artifactKey: Guid(ada894ad256f00a4cacfe5e5aa85133f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/¿Tienes bien puestas las gafas.mp3 using Guid(ada894ad256f00a4cacfe5e5aa85133f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a7f230ca1311dc786b9d319642f32db') in 0.008722 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Cuidado, ha entrado un payaso.mp3
+  artifactKey: Guid(a803b12ca84e1d5439353cedb8a1cb2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Cuidado, ha entrado un payaso.mp3 using Guid(a803b12ca84e1d5439353cedb8a1cb2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83650059984424bad983d91a88aa109a') in 0.008504 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Tengo una mosca de mascota.mp3
+  artifactKey: Guid(18b332a52cd8e574ea815c592eb2b062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Tengo una mosca de mascota.mp3 using Guid(18b332a52cd8e574ea815c592eb2b062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4c4042300254562e011aaa7f5d9c11e') in 0.008613 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/El suelo está hecho de marmol.mp3
+  artifactKey: Guid(756c6b5342320914abaeb94866a8d971) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/El suelo está hecho de marmol.mp3 using Guid(756c6b5342320914abaeb94866a8d971) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f23f3563fb5ed61ce20a5485ea4fa45') in 0.010892 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Invierte un euro, invierte dos euros....mp3
+  artifactKey: Guid(f484ef47bdfda794ebdbe96d1af01186) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Invierte un euro, invierte dos euros....mp3 using Guid(f484ef47bdfda794ebdbe96d1af01186) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68633d2768099203a0b52de90c8654c1') in 0.011115 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Voy a construir una casa en el monte.mp3
+  artifactKey: Guid(293dff65ccaaec84090f1772046af2df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Voy a construir una casa en el monte.mp3 using Guid(293dff65ccaaec84090f1772046af2df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05bc9f1dec092a538b75451b9f15035a') in 0.009264 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Si me quieres dejar de oir solo tienes que quitarte los cascos.mp3
+  artifactKey: Guid(4d3413e15c879654780fb10dcc1933e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Si me quieres dejar de oir solo tienes que quitarte los cascos.mp3 using Guid(4d3413e15c879654780fb10dcc1933e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa271197f915b82fb86e3ac2fed9a9fe') in 0.008750 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Llevas mucho tiempo sin dormir.mp3
+  artifactKey: Guid(76a00b1a8768a6d4b9175235e93e4858) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Llevas mucho tiempo sin dormir.mp3 using Guid(76a00b1a8768a6d4b9175235e93e4858) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c355b4f6cbdd916a97aef92c3a3edc39') in 0.011657 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Sacaste parejas en los dados.mp3
+  artifactKey: Guid(2dfef31781144bc4bbdb3d9c7faf1da4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Sacaste parejas en los dados.mp3 using Guid(2dfef31781144bc4bbdb3d9c7faf1da4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf3f50c345b71187aeefe15f269bd6ea') in 0.015555 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Las flores de tu jardín se han marchitado.mp3
+  artifactKey: Guid(d50edb08337781a46a49819322c8809b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Las flores de tu jardín se han marchitado.mp3 using Guid(d50edb08337781a46a49819322c8809b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45392bbd1a5efe500411373f04386898') in 0.016728 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Donde esta tu gato.mp3
+  artifactKey: Guid(b57f485fd07e7b845ac7f5e13c02a94c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Donde esta tu gato.mp3 using Guid(b57f485fd07e7b845ac7f5e13c02a94c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c6f3f7849c3432e209597e39518227f') in 0.015220 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Me da pereza escribir.mp3
+  artifactKey: Guid(2052e33208074d94095d5dbdd38a52ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Me da pereza escribir.mp3 using Guid(2052e33208074d94095d5dbdd38a52ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e140bbea2d1c5128fa8ac2a306971e20') in 0.013192 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Tienes los cordones desatados.mp3
+  artifactKey: Guid(3a2cf23aaaf854e4e90421c29fd8338f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Tienes los cordones desatados.mp3 using Guid(3a2cf23aaaf854e4e90421c29fd8338f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e287c7c85c3bedac8a56c655afbb7de3') in 0.009631 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Que tienes hoy para comer.mp3
+  artifactKey: Guid(0669b9a0e0fb6b845b1a3aa88f5cadbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Que tienes hoy para comer.mp3 using Guid(0669b9a0e0fb6b845b1a3aa88f5cadbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '739babcc347bd2c7aae2514f837f75ec') in 0.010308 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Llevas mucho tiempo sin ducharte.mp3
+  artifactKey: Guid(abc67285ac3e5aa43b36426d1e2e1ed4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Llevas mucho tiempo sin ducharte.mp3 using Guid(abc67285ac3e5aa43b36426d1e2e1ed4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '963b9df5535bf1dd6eb2f5bf04053f06') in 0.011344 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/122248.mp3
+  artifactKey: Guid(7a5aa8c42e7940a4b9bb772d2af584ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/122248.mp3 using Guid(7a5aa8c42e7940a4b9bb772d2af584ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e39ac6432bc98535e32c764296fb0ddd') in 0.009131 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Mar atlantico.mp3
+  artifactKey: Guid(976d298c45a47dd418e3c65c9ff5e23b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Mar atlantico.mp3 using Guid(976d298c45a47dd418e3c65c9ff5e23b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c5e2c1af4861ea32f2dfed288d6ed94') in 0.009608 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/No hay orquesta.mp3
+  artifactKey: Guid(cd2a9d637c6b91e4eb54d8f63b6232e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/No hay orquesta.mp3 using Guid(cd2a9d637c6b91e4eb54d8f63b6232e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e4b5eae2cfd7abb55d9bf843e11c718') in 0.011769 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/En una carrera no gana el más rápido sino el que más pies tiene.mp3
+  artifactKey: Guid(38219f1eedaf95a44a3d724909399d60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/En una carrera no gana el más rápido sino el que más pies tiene.mp3 using Guid(38219f1eedaf95a44a3d724909399d60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '308b4c38e5b4205c1892eb5bf4d3eea9') in 0.009390 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Tu no vives aqui.mp3
+  artifactKey: Guid(9ba785d0dac66e740843f341b624951a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Tu no vives aqui.mp3 using Guid(9ba785d0dac66e740843f341b624951a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbe230cc7d38565d0d6cbd7d7fe9b4c5') in 0.009721 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/No cojas el coche hoy.mp3
+  artifactKey: Guid(ec0d9cbae2264f84dad94d4f34f7096f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/No cojas el coche hoy.mp3 using Guid(ec0d9cbae2264f84dad94d4f34f7096f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3efbdfd64f5884e939fe8f64abdb1363') in 0.011788 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Estoy dentro de los poros de tu piel.mp3
+  artifactKey: Guid(96b5c167ec7767a4e9af7b2c93f39c54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Estoy dentro de los poros de tu piel.mp3 using Guid(96b5c167ec7767a4e9af7b2c93f39c54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fdff106f5fc2100f0f76c7dca44d6fd') in 0.009477 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Tengo dos tenias en el estómago.mp3
+  artifactKey: Guid(19f3fee3e4a6f8447adc5a159e8527ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios aleatorios/Tengo dos tenias en el estómago.mp3 using Guid(19f3fee3e4a6f8447adc5a159e8527ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81737442cf368f7c6b0e8bca2879bc86') in 0.010297 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.372932 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios positivos
+  artifactKey: Guid(c9d95982dbeed5846b00bde5458d522b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios positivos using Guid(c9d95982dbeed5846b00bde5458d522b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7637624728f91ef12a135e5acf96fa55') in 0.006685 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.056146 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios positivos/Estamos muy orgullosos de ti.mp3
+  artifactKey: Guid(825892ea316df8f4fb49d389025fcbdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios positivos/Estamos muy orgullosos de ti.mp3 using Guid(825892ea316df8f4fb49d389025fcbdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9196008b6432bee720c10cc05c6dd32f') in 0.009409 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios positivos/Que bien lo haces todo.mp3
+  artifactKey: Guid(bc99c9b2362278545b54958416deef3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios positivos/Que bien lo haces todo.mp3 using Guid(bc99c9b2362278545b54958416deef3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '120871c8dd1d50a78c9cb527737b5433') in 0.009012 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios positivos/Sigue así.mp3
+  artifactKey: Guid(af90593e67aebc648bc54e2687beb420) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios positivos/Sigue así.mp3 using Guid(af90593e67aebc648bc54e2687beb420) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57cb14a3e17836c6bfe08ad0c92b240b') in 0.009632 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios positivos/Lo vas a conseguir.mp3
+  artifactKey: Guid(48b677cc311814e40940d07f14480d1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios positivos/Lo vas a conseguir.mp3 using Guid(48b677cc311814e40940d07f14480d1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '516cd8bf673c3b39a55ee3882851b537') in 0.011553 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios positivos/Fijo que la gente te respeta.mp3
+  artifactKey: Guid(9b95bb38c1c3f8c4cae3d3989d30eebc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios positivos/Fijo que la gente te respeta.mp3 using Guid(9b95bb38c1c3f8c4cae3d3989d30eebc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cbd9f0dcb534e1eac70b9024cfc9594') in 0.010690 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios positivos/Lo estás haciendo bien.mp3
+  artifactKey: Guid(9dcd0c05791b85a4786657e719a93921) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios positivos/Lo estás haciendo bien.mp3 using Guid(9dcd0c05791b85a4786657e719a93921) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7782ddda779dc2804820000a5688882') in 0.009971 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios positivos/Muy bien.mp3
+  artifactKey: Guid(67a4f3ada52ce614980fd6371aa35e5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios positivos/Muy bien.mp3 using Guid(67a4f3ada52ce614980fd6371aa35e5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a9ac635e92166448b86fb44c0076e2f') in 0.011975 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Comentarios positivos/Perfecto.mp3
+  artifactKey: Guid(3ebd4c4fd9e93224186a725abf7a4b23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios positivos/Perfecto.mp3 using Guid(3ebd4c4fd9e93224186a725abf7a4b23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c9a8fcd4c3f6736cdd448e3551c995d') in 0.011155 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.132558 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Indicaciones
+  artifactKey: Guid(ca18110f2804ca74f804e9e5c10420ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Indicaciones using Guid(ca18110f2804ca74f804e9e5c10420ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3dc9ae8daeb85f5aed19280757eaa7a') in 0.006442 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.084416 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Indicaciones/Abre la puerta.mp3
+  artifactKey: Guid(159b7181c4b7feb428b7dafa48fea7e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Indicaciones/Abre la puerta.mp3 using Guid(159b7181c4b7feb428b7dafa48fea7e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cb0a860ac2406f85141f8e500ce3ad6') in 0.008798 seconds 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000267 seconds.
-  path: Assets/Prefabs/Casa/Techo/Techo3x3.prefab
-  artifactKey: Guid(09240030c5262d643b67f50d2479fe24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Casa/Techo/Techo3x3.prefab using Guid(09240030c5262d643b67f50d2479fe24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '960941033b7d853059abebb93753b227') in 0.032477 seconds 
+  path: Assets/Resources/Audios/Esquizofrenia/Indicaciones/Acercate a él.mp3
+  artifactKey: Guid(39055a7e33011ad4aafb6471abb53590) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Indicaciones/Acercate a él.mp3 using Guid(39055a7e33011ad4aafb6471abb53590) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c097f0d9c31d2f00d7b4d1720f9a5ed6') in 0.009220 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 103.138700 seconds.
+  Time since last request: 0.000130 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Indicaciones/Cógelo.mp3
+  artifactKey: Guid(9da28a16d7a63bd4ba0d4f40ce4ec1f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Indicaciones/Cógelo.mp3 using Guid(9da28a16d7a63bd4ba0d4f40ce4ec1f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1edb01f0e998de43cd61cae83dc24e6') in 0.009434 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Indicaciones/En la ventana.mp3
+  artifactKey: Guid(55ba6185208666145874d4bb7da21005) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Indicaciones/En la ventana.mp3 using Guid(55ba6185208666145874d4bb7da21005) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d565d0a54d43824788ad41753b02e64') in 0.012245 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Indicaciones/Agachate.mp3
+  artifactKey: Guid(89007d243a037864cbc416ecd96f1e14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Indicaciones/Agachate.mp3 using Guid(89007d243a037864cbc416ecd96f1e14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e638dadf96e7b5b91867105a171be8a') in 0.012077 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Indicaciones/No mires la luz.mp3
+  artifactKey: Guid(8bdb11b813cb58a4c97bd0f828ec2a91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Indicaciones/No mires la luz.mp3 using Guid(8bdb11b813cb58a4c97bd0f828ec2a91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '060dcf7dc8b59bab4bed60e5753e9187') in 0.011200 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Indicaciones/Haz ruido.mp3
+  artifactKey: Guid(ea4606b5cddc09a4cb10efa4cdb9ffe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Indicaciones/Haz ruido.mp3 using Guid(ea4606b5cddc09a4cb10efa4cdb9ffe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49b13afa6d1ec388fdc893fcd83b1584') in 0.011903 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Indicaciones/No respires.mp3
+  artifactKey: Guid(716d3a48709dfee4b85a8714d7ef0989) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Indicaciones/No respires.mp3 using Guid(716d3a48709dfee4b85a8714d7ef0989) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '111ec2234a9299bcf020d66f84e9f529') in 0.010030 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Indicaciones/Al final del pasillo.mp3
+  artifactKey: Guid(339d4c4b2a72b0548b96367a57e13744) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Indicaciones/Al final del pasillo.mp3 using Guid(339d4c4b2a72b0548b96367a57e13744) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87ceccb01e6b2dff6ce020ab32f43939') in 0.010232 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Indicaciones/Date la vuelta.mp3
+  artifactKey: Guid(65293edc28f3372408b0997bf06ffd78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Indicaciones/Date la vuelta.mp3 using Guid(65293edc28f3372408b0997bf06ffd78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52b2943ce98d90f158db594b04b9d608') in 0.012922 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Indicaciones/No hagas ruido.mp3
+  artifactKey: Guid(93a9eaafaca67a84ca49e4f2470982ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Indicaciones/No hagas ruido.mp3 using Guid(93a9eaafaca67a84ca49e4f2470982ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbf4b2e8c71de46c182ad99746930e13') in 0.009064 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Indicaciones/Mira a tu izquierda.mp3
+  artifactKey: Guid(a2035313373afe1498a9a399ace92a5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Indicaciones/Mira a tu izquierda.mp3 using Guid(a2035313373afe1498a9a399ace92a5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '795fb7310f6d19a692b387143ec2214a') in 0.009516 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Indicaciones/No es por ahí.mp3
+  artifactKey: Guid(915ca3192c93a3c48bc9d007c3e6f992) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Indicaciones/No es por ahí.mp3 using Guid(915ca3192c93a3c48bc9d007c3e6f992) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e17ad79ba6eaee997609547809f28a15') in 0.009654 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Indicaciones/Quédate quieto.mp3
+  artifactKey: Guid(c0cf5e54c8e795245bcd0c4289575f1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Indicaciones/Quédate quieto.mp3 using Guid(c0cf5e54c8e795245bcd0c4289575f1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e6f8d6ee4bfffbd634b31d61fc31031') in 0.011539 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Indicaciones/Miéntele.mp3
+  artifactKey: Guid(3c8cc68b779c49f42b96c8ccf044fdcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Indicaciones/Miéntele.mp3 using Guid(3c8cc68b779c49f42b96c8ccf044fdcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e20fe4239e6e0001ae53abd6d3580cc') in 0.012027 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Indicaciones/Vuelve a la casa.mp3
+  artifactKey: Guid(42986512f409fc546aaf79d6d130b9e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Indicaciones/Vuelve a la casa.mp3 using Guid(42986512f409fc546aaf79d6d130b9e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc18bb4722489c5270c2e46a21f7be95') in 0.011663 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Indicaciones/Detrás de la puerta.mp3
+  artifactKey: Guid(bd3532341dd1cd74388a8ea2f6025b5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Indicaciones/Detrás de la puerta.mp3 using Guid(bd3532341dd1cd74388a8ea2f6025b5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cba49eb158150dcc5196718127014b4') in 0.011740 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Indicaciones/Hazme caso.mp3
+  artifactKey: Guid(a18876eed69ad5845ad89e68f915c238) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Indicaciones/Hazme caso.mp3 using Guid(a18876eed69ad5845ad89e68f915c238) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1245b7875e4e315dc41b9d2065475590') in 0.011799 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Indicaciones/Piensa.mp3
+  artifactKey: Guid(b7d6b29d96f7bfa4096249eb33b12da4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Indicaciones/Piensa.mp3 using Guid(b7d6b29d96f7bfa4096249eb33b12da4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c107429e2bf61f9634ca7573c998a3a1') in 0.011284 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Indicaciones/Corre.mp3
+  artifactKey: Guid(69d4823f4c0c6d14aae6a44320ac1489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Indicaciones/Corre.mp3 using Guid(69d4823f4c0c6d14aae6a44320ac1489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '936d9026e07906779b3147b6081b0f69') in 0.008940 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Indicaciones/Mira a tu derecha.mp3
+  artifactKey: Guid(0325d42905fed9348871c739f365ded2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Indicaciones/Mira a tu derecha.mp3 using Guid(0325d42905fed9348871c739f365ded2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7084496d983dddc3bb4f69d4890e115') in 0.011287 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Indicaciones/Cierra los ojos.mp3
+  artifactKey: Guid(b6f0b8538e0261146ad8cfeae3c8b772) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Indicaciones/Cierra los ojos.mp3 using Guid(b6f0b8538e0261146ad8cfeae3c8b772) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d3fed58f24603e5ed6c6804c6036de6') in 0.009956 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Indicaciones/Cuidado con los arbustos.mp3
+  artifactKey: Guid(bb8a6d32830b2f9458392ad91752f2b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Indicaciones/Cuidado con los arbustos.mp3 using Guid(bb8a6d32830b2f9458392ad91752f2b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40cfb6dd77ca23083b1ca4f142379318') in 0.012323 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Indicaciones/Di la verdad.mp3
+  artifactKey: Guid(f19dfe31dd8ef3c4f8d35d3fec9d5a0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Indicaciones/Di la verdad.mp3 using Guid(f19dfe31dd8ef3c4f8d35d3fec9d5a0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad4b4a7541cd80be915c2a4b41e551ca') in 0.010048 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Indicaciones/No es por aqui.mp3
+  artifactKey: Guid(f76979b9ab1fb5f47b54a55017bf9466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Indicaciones/No es por aqui.mp3 using Guid(f76979b9ab1fb5f47b54a55017bf9466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f96169a4b9b50bdc0b5f5ed4fc7071ab') in 0.011489 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Indicaciones/Detrás de ti.mp3
+  artifactKey: Guid(36701d7336ff648419dc32f697dd9f40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Indicaciones/Detrás de ti.mp3 using Guid(36701d7336ff648419dc32f697dd9f40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cea43da22098817660985e9a5e97016') in 0.012674 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Indicaciones/Escóndete.mp3
+  artifactKey: Guid(5eb104c77eb66044fb20d0bb982a06de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Indicaciones/Escóndete.mp3 using Guid(5eb104c77eb66044fb20d0bb982a06de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70ff6438ebcfc0c3036aa9c009367011') in 0.011036 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Indicaciones/Cuidado.mp3
+  artifactKey: Guid(d13a3220a9271ad4a99b796a73a196a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Indicaciones/Cuidado.mp3 using Guid(d13a3220a9271ad4a99b796a73a196a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc16fd0a2f74c54d7128c4a47f6993b8') in 0.011678 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Indicaciones/No te acerques.mp3
+  artifactKey: Guid(a0a02c3acb4864146a0d85f33eaf5d11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Indicaciones/No te acerques.mp3 using Guid(a0a02c3acb4864146a0d85f33eaf5d11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73c5d7c7939190fab88e8f70d15ea8fb') in 0.010964 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Indicaciones/Cierra la puerta.mp3
+  artifactKey: Guid(1e51453cdb3e1264c8f10f26bc1a761e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Indicaciones/Cierra la puerta.mp3 using Guid(1e51453cdb3e1264c8f10f26bc1a761e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9226724992227fa09abfa08c766ae5f2') in 0.011296 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Indicaciones/Sigue recto.mp3
+  artifactKey: Guid(4527cfe81bea3634f9b7dfac39ffa07e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Indicaciones/Sigue recto.mp3 using Guid(4527cfe81bea3634f9b7dfac39ffa07e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '888f15aeabb30cbf09bd0a49029bc289') in 0.010477 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Indicaciones/Hazle caso.mp3
+  artifactKey: Guid(39eebeaf2e1dac64e8d901a5e7765faa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Indicaciones/Hazle caso.mp3 using Guid(39eebeaf2e1dac64e8d901a5e7765faa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '663eade54371a713d814d223a7a1fcba') in 0.011675 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/Resources/Audios/Esquizofrenia/Indicaciones/No lo escuches.mp3
+  artifactKey: Guid(28da58c2af4e5fb4cb74212b4007d369) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Audios/Esquizofrenia/Indicaciones/No lo escuches.mp3 using Guid(28da58c2af4e5fb4cb74212b4007d369) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c2d1ad1627e9f9818a0e19260a740ae') in 0.011652 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001726 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.715 seconds
+Domain Reload Profiling:
+	ReloadAssembly (715ms)
+		BeginReloadAssembly (90ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (2ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (25ms)
+		EndReloadAssembly (587ms)
+			LoadAssemblies (72ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (174ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (25ms)
+			SetupLoadedEditorAssemblies (282ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (47ms)
+				ProcessInitializeOnLoadAttributes (224ms)
+				ProcessInitializeOnLoadMethodAttributes (6ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1314 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 66.9 MB.
+System memory in use after: 67.0 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1776.
+Total: 2.285800 ms (FindLiveObjects: 0.086400 ms CreateObjectMapping: 0.031200 ms MarkObjects: 2.147200 ms  DeleteObjects: 0.020000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 32.842113 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(60c5ef0792a319d4b99bb9305541f9d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs using Guid(60c5ef0792a319d4b99bb9305541f9d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6a648340f27a80047e4179a9d37691c') in 0.003217 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.126858 seconds.
+  path: Assets/Prefabs/Casa
+  artifactKey: Guid(4e23309c43ca9b845826f32b6c5d0cbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Casa using Guid(4e23309c43ca9b845826f32b6c5d0cbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcd899fa8466310219c39a0443ff234d') in 0.006157 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.422155 seconds.
+  path: Assets/Prefabs/Casa/Pared
+  artifactKey: Guid(677942df6255c394c9aaf025e1cc92b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Casa/Pared using Guid(677942df6255c394c9aaf025e1cc92b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b2d2ab9c6613333d50e045aeb8859b4') in 0.006422 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.063819 seconds.
+  path: Assets/Prefabs/Casa/Pared/Pared2Largo.prefab
+  artifactKey: Guid(4756f9f2eeb94fc4682d6a4e8236a77c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Casa/Pared/Pared2Largo.prefab using Guid(4756f9f2eeb94fc4682d6a4e8236a77c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'baf800dc875a03620f5c6c021ad69703') in 0.046921 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/Prefabs/Casa/Pared/ParedPuerta.prefab
+  artifactKey: Guid(1f02b0e13ec05794da7402d1bdc36f3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Casa/Pared/ParedPuerta.prefab using Guid(1f02b0e13ec05794da7402d1bdc36f3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c528a707acf807d5a4c2f7e5d6b976a') in 0.046209 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Prefabs/Casa/Pared/Pared3Largo Variant.prefab
+  artifactKey: Guid(bdd2a656cfc71ba40a5a2c7cab48d4e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Casa/Pared/Pared3Largo Variant.prefab using Guid(bdd2a656cfc71ba40a5a2c7cab48d4e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dabfa10beecb4782741ae56df4d6f7ac') in 0.026969 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Prefabs/Casa/Pared/ParedVentana.prefab
+  artifactKey: Guid(9fc081be50d4e484e9b39510d5363589) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Casa/Pared/ParedVentana.prefab using Guid(9fc081be50d4e484e9b39510d5363589) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52667deac7eeabc64392d6d59e418d20') in 0.047684 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.571612 seconds.
+  path: Assets/Prefabs/Casa/Suelo
+  artifactKey: Guid(f7bfb2c93b1bf454b89c8e71687392ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Casa/Suelo using Guid(f7bfb2c93b1bf454b89c8e71687392ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f6412189b26d40d703616c9c8da23ce') in 0.009085 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.071041 seconds.
   path: Assets/Prefabs/Casa/Suelo/3x2Suelo.prefab
   artifactKey: Guid(dd9d38d34df27d34aac85a47008f5ba4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Casa/Suelo/3x2Suelo.prefab using Guid(dd9d38d34df27d34aac85a47008f5ba4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '325f4dc7298bb483b0db04bea68c6111') in 0.049918 seconds 
+Start importing Assets/Prefabs/Casa/Suelo/3x2Suelo.prefab using Guid(dd9d38d34df27d34aac85a47008f5ba4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac24f8a107982b17d1a2a176e375531a') in 0.027414 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 1011.258795 seconds.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Prefabs/Casa/Suelo/3x3Suelo.prefab
+  artifactKey: Guid(c3f7dbda5c20dba41bf46d91ebb7412e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Casa/Suelo/3x3Suelo.prefab using Guid(c3f7dbda5c20dba41bf46d91ebb7412e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf4e8fc79a28772add4f58fd40b23368') in 0.034446 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.472360 seconds.
+  path: Assets/Prefabs/Casa/Techo
+  artifactKey: Guid(ffe5110ee5226584e94a8c1aeb6cd606) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Casa/Techo using Guid(ffe5110ee5226584e94a8c1aeb6cd606) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '494b4ac8f86a948a7e9af2964aaefe4a') in 0.006017 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.097172 seconds.
   path: Assets/Prefabs/Casa/Techo/Techo3x2.prefab
   artifactKey: Guid(286717686cc1e684fa86198d14f5c43d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Casa/Techo/Techo3x2.prefab using Guid(286717686cc1e684fa86198d14f5c43d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87bb16774de2142fcc9171b082c37a5d') in 0.043313 seconds 
+Start importing Assets/Prefabs/Casa/Techo/Techo3x2.prefab using Guid(286717686cc1e684fa86198d14f5c43d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78ea0f47178f9cd6afb891f548122835') in 0.020058 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 211.127168 seconds.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Prefabs/Casa/Techo/Techo3x3.prefab
+  artifactKey: Guid(09240030c5262d643b67f50d2479fe24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Casa/Techo/Techo3x3.prefab using Guid(09240030c5262d643b67f50d2479fe24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaafe9401de9915618b093b3b3e9e4d7') in 0.025853 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.769735 seconds.
+  path: Assets/Prefabs/Casa/Habitaciones
+  artifactKey: Guid(1a841727806173145bb144bfb6706bde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Casa/Habitaciones using Guid(1a841727806173145bb144bfb6706bde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94d2f6d2dfcc11fd79df3bfb85694c6d') in 0.006553 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.063351 seconds.
+  path: Assets/Prefabs/Casa/Habitaciones/Habitación3x3.prefab
+  artifactKey: Guid(6cdee0ca7b6e29149a9361b42eb47ab0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Casa/Habitaciones/Habitación3x3.prefab using Guid(6cdee0ca7b6e29149a9361b42eb47ab0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bbb9114a3bf1ecb4d98fae8bcad7041') in 0.065690 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
   path: Assets/Prefabs/Casa/Habitaciones/Pasillo.prefab
   artifactKey: Guid(5c462cad9981c794996d522d4512bc2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Casa/Habitaciones/Pasillo.prefab using Guid(5c462cad9981c794996d522d4512bc2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5a5460d2ca1cc7b69368155bb1ba5f1') in 0.100952 seconds 
+Start importing Assets/Prefabs/Casa/Habitaciones/Pasillo.prefab using Guid(5c462cad9981c794996d522d4512bc2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00f44538b995fc4396096f22809912d2') in 0.050739 seconds 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
