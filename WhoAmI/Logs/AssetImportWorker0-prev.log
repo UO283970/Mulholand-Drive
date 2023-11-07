@@ -15,15 +15,15 @@ D:/Clase/Unity/Mulholand-Drive/WhoAmI
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-55213
+52527
 Successfully changed project path to: D:/Clase/Unity/Mulholand-Drive/WhoAmI
 D:/Clase/Unity/Mulholand-Drive/WhoAmI
 Using Asset Import Pipeline V2.
-Player connection [24592] Host "[IP] 192.168.1.45 [Port] 2953007584 [Flags] 2 [Guid] 2589581348 [EditorId] 2589581348 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-6VCH8GD) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [20444] Host "[IP] 192.168.1.45 [Port] 2953007584 [Flags] 2 [Guid] 2591707722 [EditorId] 2591707722 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-6VCH8GD) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [24592] Host "[IP] 192.168.1.45 [Port] 2953007584 [Flags] 2 [Guid] 2589581348 [EditorId] 2589581348 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-6VCH8GD) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [20444] Host "[IP] 192.168.1.45 [Port] 2953007584 [Flags] 2 [Guid] 2591707722 [EditorId] 2591707722 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-6VCH8GD) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
-Refreshing native plugins compatible for Editor in 19.02 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 22.68 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.46f1 (18bc01a066b4)
 [Subsystems] Discovering subsystems at path D:/Programas/Unity/Installs/2020.3.46f1/Editor/Data/Resources/UnitySubsystems
@@ -39,241 +39,89 @@ Initialize mono
 Mono path[0] = 'D:/Programas/Unity/Installs/2020.3.46f1/Editor/Data/Managed'
 Mono path[1] = 'D:/Programas/Unity/Installs/2020.3.46f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'D:/Programas/Unity/Installs/2020.3.46f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56352
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56304
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/Programas/Unity/Installs/2020.3.46f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001166 seconds.
+Registered in 0.000947 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 18.67 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 22.36 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.374 seconds
+- Completed reload, in  0.410 seconds
 Domain Reload Profiling:
-	ReloadAssembly (374ms)
-		BeginReloadAssembly (49ms)
+	ReloadAssembly (410ms)
+		BeginReloadAssembly (56ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (280ms)
-			LoadAssemblies (48ms)
+		EndReloadAssembly (305ms)
+			LoadAssemblies (55ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (92ms)
+			SetupTypeCache (103ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (20ms)
-			SetupLoadedEditorAssemblies (108ms)
+			RebuildScriptCaches (21ms)
+			SetupLoadedEditorAssemblies (115ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (3ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (19ms)
-				BeforeProcessingInitializeOnLoad (8ms)
+				RefreshPlugins (22ms)
+				BeforeProcessingInitializeOnLoad (9ms)
 				ProcessInitializeOnLoadAttributes (60ms)
-				ProcessInitializeOnLoadMethodAttributes (18ms)
+				ProcessInitializeOnLoadMethodAttributes (20ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001714 seconds.
+Registered in 0.001980 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.21 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.783 seconds
+- Completed reload, in  0.902 seconds
 Domain Reload Profiling:
-	ReloadAssembly (784ms)
-		BeginReloadAssembly (101ms)
+	ReloadAssembly (903ms)
+		BeginReloadAssembly (104ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (3ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (12ms)
-		EndReloadAssembly (644ms)
-			LoadAssemblies (68ms)
+			CreateAndSetChildDomain (14ms)
+		EndReloadAssembly (759ms)
+			LoadAssemblies (73ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (160ms)
+			SetupTypeCache (210ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (26ms)
-			SetupLoadedEditorAssemblies (356ms)
+			RebuildScriptCaches (28ms)
+			SetupLoadedEditorAssemblies (389ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (3ms)
+				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (0ms)
-				BeforeProcessingInitializeOnLoad (50ms)
-				ProcessInitializeOnLoadAttributes (296ms)
-				ProcessInitializeOnLoadMethodAttributes (6ms)
-				AfterProcessingInitializeOnLoad (2ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (1ms)
-Platform modules already initialized, skipping
-========================================================================
-Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
-Refreshing native plugins compatible for Editor in 0.21 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1320 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 63.6 MB.
-System memory in use after: 63.7 MB.
-
-Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1757.
-Total: 2.118500 ms (FindLiveObjects: 0.075600 ms CreateObjectMapping: 0.025300 ms MarkObjects: 1.966000 ms  DeleteObjects: 0.050900 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  path: Assets/Prefabs/Casa/Habitaciones/Habitacion.unitypackage
-  artifactKey: Guid(c327a0bd1995fff4fa7c0f7db37dc066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Casa/Habitaciones/Habitacion.unitypackage using Guid(c327a0bd1995fff4fa7c0f7db37dc066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76f47858099cac515c68c46fc539b794') in 0.029497 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 47.915061 seconds.
-  path: Assets/Scripts
-  artifactKey: Guid(abcf97be154cdb54996b7ff47c1e4518) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts using Guid(abcf97be154cdb54996b7ff47c1e4518) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21dc1ce34e694a4bb696085db6c6bec7') in 0.006423 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 5.067915 seconds.
-  path: Assets/Resources/Prefabs
-  artifactKey: Guid(15aa615e1825aee4984c6b6ce2c7d915) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Prefabs using Guid(15aa615e1825aee4984c6b6ce2c7d915) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9504d2fc6e36f4759390645bbe883b36') in 0.006624 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.029170 seconds.
-  path: Assets/Resources/Prefabs/Room1.prefab
-  artifactKey: Guid(56452d32341e0d245add7ff45ebc7f05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Prefabs/Room1.prefab using Guid(56452d32341e0d245add7ff45ebc7f05) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Diagnostics callstack to track who triggered the sub-import:
-0x00007ff787410702 (Unity) ImporterAssetResolver::ResolveAsset
-0x00007ff7873e0582 (Unity) ResolveArtifactV2
-0x00007ff7873fb610 (Unity) ImportToObjects
-0x00007ff7873faa18 (Unity) ImportAsset
-0x00007ff787391ac8 (Unity) AssetImportWorker::Import
-0x00007ff7873b742c (Unity) <lambda_6c894734dbee50c93f7912c8ad287316>::operator()
-0x00007ff787449a12 (Unity) asio::detail::completion_handler<core::mutable_function<void __cdecl(void)>,asio::io_context::basic_executor_type<std::allocator<void>,0> >::do_complete
-0x00007ff787435902 (Unity) asio::detail::win_iocp_io_context::do_one
-0x00007ff787437784 (Unity) asio::detail::win_iocp_io_context::run
-0x00007ff787447d4f (Unity) IOService::Run
-0x00007ff7873e129b (Unity) RunAssetImportWorkerClientV2
-0x00007ff7873e12f0 (Unity) RunAssetImporterV2
-0x00007ff786e51a98 (Unity) Application::InitializeProject
-0x00007ff7872d6572 (Unity) WinMain
-0x00007ff788a1149e (Unity) __scrt_common_main_seh
-0x00007fff9b0e7344 (KERNEL32) BaseThreadInitThunk
-0x00007fff9c5826b1 (ntdll) RtlUserThreadStart
-
-Requesting import of Guid(56452d32341e0d245add7ff45ebc7f05) Importer(-1,00000000000000000000000000000000), Assets/Resources/Prefabs/Room1.prefab from editor
-Resuming Guid(56452d32341e0d245add7ff45ebc7f05) Importer(-1,00000000000000000000000000000000) -> 0e42c7d35ff39a7d966f4c7399e2943f 
-Assertion failed on expression: 'state.state == kUpToDate'
-Assertion failed on expression: 'state.artifactID == result'
-Diagnostics callstack to track who triggered the sub-import:
-0x00007ff787410702 (Unity) ImporterAssetResolver::ResolveAsset
-0x00007ff7873e0582 (Unity) ResolveArtifactV2
-0x00007ff7873d8311 (Unity) ProduceArtifactV2
-0x00007ff78736d3ee (Unity) AssetDatabase::ProduceArtifact
-0x00007ff78735610b (Unity) PreviewImporter::GenerateAssetData
-0x00007ff7873fba43 (Unity) ImportToObjects
-0x00007ff7873faa18 (Unity) ImportAsset
-0x00007ff787391ac8 (Unity) AssetImportWorker::Import
-0x00007ff7873b742c (Unity) <lambda_6c894734dbee50c93f7912c8ad287316>::operator()
-0x00007ff787449a12 (Unity) asio::detail::completion_handler<core::mutable_function<void __cdecl(void)>,asio::io_context::basic_executor_type<std::allocator<void>,0> >::do_complete
-0x00007ff787435902 (Unity) asio::detail::win_iocp_io_context::do_one
-0x00007ff787437784 (Unity) asio::detail::win_iocp_io_context::run
-0x00007ff787447d4f (Unity) IOService::Run
-0x00007ff7873e129b (Unity) RunAssetImportWorkerClientV2
-0x00007ff7873e12f0 (Unity) RunAssetImporterV2
-0x00007ff786e51a98 (Unity) Application::InitializeProject
-0x00007ff7872d6572 (Unity) WinMain
-0x00007ff788a1149e (Unity) __scrt_common_main_seh
-0x00007fff9b0e7344 (KERNEL32) BaseThreadInitThunk
-0x00007fff9c5826b1 (ntdll) RtlUserThreadStart
-
-Requesting import of Guid(56452d32341e0d245add7ff45ebc7f05) Importer(-1,00000000000000000000000000000000), Assets/Resources/Prefabs/Room1.prefab from editor
-Resuming Guid(56452d32341e0d245add7ff45ebc7f05) Importer(-1,00000000000000000000000000000000) -> 0e42c7d35ff39a7d966f4c7399e2943f 
-Assertion failed on expression: 'state.state == kUpToDate'
-Assertion failed on expression: 'state.artifactID == result'
- -> (artifact id: '52c0bb82f7ade41d4102efcfb09c93fa') in 0.409826 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 8.343758 seconds.
-  path: Assets/Brick Project Studio
-  artifactKey: Guid(b3b48e5195c78e54f8d1c1fc7cb6a110) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Brick Project Studio using Guid(b3b48e5195c78e54f8d1c1fc7cb6a110) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c66b95b1a8d7149d9e0dedd392e6e9e0') in 0.006336 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.346541 seconds.
-  path: Assets/Free
-  artifactKey: Guid(017e6cf3efb647644a57a759f987681b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Free using Guid(017e6cf3efb647644a57a759f987681b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50952c53c113333941c8723b8dbc592a') in 0.007340 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.302109 seconds.
-  path: Assets/Furniture
-  artifactKey: Guid(75e347b4bbdccb84798648760260e028) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Furniture using Guid(75e347b4bbdccb84798648760260e028) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b4dc4097f88c8325f69c606db8cd849') in 0.005947 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 21.397960 seconds.
-  path: Assets/Resources/Scripts
-  artifactKey: Guid(5beb683105e285240b428a2e6893c149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Scripts using Guid(5beb683105e285240b428a2e6893c149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cddc0f74edad257498feea0411a4a3e3') in 0.001663 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001564 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.22 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.731 seconds
-Domain Reload Profiling:
-	ReloadAssembly (731ms)
-		BeginReloadAssembly (87ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (3ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (23ms)
-		EndReloadAssembly (606ms)
-			LoadAssemblies (74ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (172ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (24ms)
-			SetupLoadedEditorAssemblies (297ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (3ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (0ms)
-				BeforeProcessingInitializeOnLoad (44ms)
-				ProcessInitializeOnLoadAttributes (238ms)
+				BeforeProcessingInitializeOnLoad (77ms)
+				ProcessInitializeOnLoadAttributes (297ms)
 				ProcessInitializeOnLoadMethodAttributes (8ms)
-				AfterProcessingInitializeOnLoad (2ms)
+				AfterProcessingInitializeOnLoad (3ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (2ms)
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.30 ms, found 2 plugins.
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.23 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1335 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 67.7 MB.
-System memory in use after: 67.8 MB.
+Unloading 1341 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.9 MB.
+System memory in use after: 65.0 MB.
 
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1784.
-Total: 1.947300 ms (FindLiveObjects: 0.076100 ms CreateObjectMapping: 0.022900 ms MarkObjects: 1.833800 ms  DeleteObjects: 0.013900 ms)
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1780.
+Total: 2.076100 ms (FindLiveObjects: 0.083900 ms CreateObjectMapping: 0.032400 ms MarkObjects: 1.909100 ms  DeleteObjects: 0.049800 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -287,226 +135,19 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 42.358418 seconds.
-  path: Assets/Resources/Prefabs/Room1.prefab
-  artifactKey: Guid(56452d32341e0d245add7ff45ebc7f05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Prefabs/Room1.prefab using Guid(56452d32341e0d245add7ff45ebc7f05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3f77bc0ec1c86fbd5493dff32af6167') in 0.193823 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 4.505358 seconds.
-  path: Assets/Resources/Icons
-  artifactKey: Guid(2cc7d9d13ef137c46a47b4937e15813a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Icons using Guid(2cc7d9d13ef137c46a47b4937e15813a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51fb20ed57d49792a90dfcbed37cea57') in 0.006417 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.094823 seconds.
-  path: Assets/Resources/Icons/paloma.png
-  artifactKey: Guid(78d13ea9d7a71a34fa9ca15ea2d82abd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Icons/paloma.png using Guid(78d13ea9d7a71a34fa9ca15ea2d82abd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eef718cc44f29fa1b75f3a3238b64cf2') in 0.026778 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 5.496563 seconds.
-  path: Assets/Resources/Audios/Esquizofrenia/Comentarios negativos
-  artifactKey: Guid(5b1c487af02968e49a239b84e95ea6e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios negativos using Guid(5b1c487af02968e49a239b84e95ea6e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e41231f4354cc626fc1e7a54632a74c') in 0.006813 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.082978 seconds.
-  path: Assets/Resources/Audios/Esquizofrenia/Comentarios negativos/Así no era.mp3
-  artifactKey: Guid(570a5a74252fa6e4cbd3d57638a8bb74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios negativos/Así no era.mp3 using Guid(570a5a74252fa6e4cbd3d57638a8bb74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5c354b6c5c060da83e91aaeb6417c7c') in 0.018659 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000182 seconds.
-  path: Assets/Resources/Audios/Esquizofrenia/Comentarios negativos/Tira la toalla.mp3
-  artifactKey: Guid(23c94a21aa0e8e24b9ad638fe2ab9731) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios negativos/Tira la toalla.mp3 using Guid(23c94a21aa0e8e24b9ad638fe2ab9731) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dae1ef38d80ceceb201e03c0c7bd100d') in 0.012922 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000181 seconds.
-  path: Assets/Resources/Audios/Esquizofrenia/Comentarios negativos/Inútil.mp3
-  artifactKey: Guid(e8bcc9f9c823a324baf34fea95b15771) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios negativos/Inútil.mp3 using Guid(e8bcc9f9c823a324baf34fea95b15771) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd7c600c11a59199bf14d5808de6b2ca') in 0.013337 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000152 seconds.
-  path: Assets/Resources/Audios/Esquizofrenia/Comentarios negativos/No tienes amigos.mp3
-  artifactKey: Guid(e0e54e7fbcb1bbf46ab32c7f127a7697) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios negativos/No tienes amigos.mp3 using Guid(e0e54e7fbcb1bbf46ab32c7f127a7697) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56e3e6f5083065733ee5b3eb636d07ba') in 0.009713 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000148 seconds.
-  path: Assets/Resources/Audios/Esquizofrenia/Comentarios negativos/Eres débil.mp3
-  artifactKey: Guid(68fa54431295ac14f8184359776e0f95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios negativos/Eres débil.mp3 using Guid(68fa54431295ac14f8184359776e0f95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98273be5b59b88fafd237cf59ef5d5c8') in 0.009334 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000124 seconds.
-  path: Assets/Resources/Audios/Esquizofrenia/Comentarios negativos/Haces daño a la gente.mp3
-  artifactKey: Guid(bf64035d35aed7f4a88feabbe04f7dab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios negativos/Haces daño a la gente.mp3 using Guid(bf64035d35aed7f4a88feabbe04f7dab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef2e5ac464e351580bf8ba6d505a2203') in 0.013379 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000135 seconds.
-  path: Assets/Resources/Audios/Esquizofrenia/Comentarios negativos/Ponte a llorar.mp3
-  artifactKey: Guid(146a4a977febf8f43a4379b0db81a11d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios negativos/Ponte a llorar.mp3 using Guid(146a4a977febf8f43a4379b0db81a11d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fda7cc95119363cc36a0ffd6ef3c9ad') in 0.013057 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000140 seconds.
-  path: Assets/Resources/Audios/Esquizofrenia/Comentarios negativos/Ríndete.mp3
-  artifactKey: Guid(19772ad7bd55c6e4d9c6ed7de7d4d070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios negativos/Ríndete.mp3 using Guid(19772ad7bd55c6e4d9c6ed7de7d4d070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b86e6e438963a31d00d225ef3d689cdf') in 0.013647 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000122 seconds.
-  path: Assets/Resources/Audios/Esquizofrenia/Comentarios negativos/Deja de luchar.mp3
-  artifactKey: Guid(e6385d6efee3b24429d592f56c257f57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios negativos/Deja de luchar.mp3 using Guid(e6385d6efee3b24429d592f56c257f57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e71c6de6e48d4547c0de963a8a0fbbb2') in 0.013648 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000146 seconds.
-  path: Assets/Resources/Audios/Esquizofrenia/Comentarios negativos/Entregate.mp3
-  artifactKey: Guid(b43ed06c27fb0c3409d63a52d24d27b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios negativos/Entregate.mp3 using Guid(b43ed06c27fb0c3409d63a52d24d27b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7239604eec59c794853928c40076ad4c') in 0.014173 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000102 seconds.
-  path: Assets/Resources/Audios/Esquizofrenia/Comentarios negativos/Te están criticando.mp3
-  artifactKey: Guid(156ed1cfc8bef3a4297bdf9b43bf969d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios negativos/Te están criticando.mp3 using Guid(156ed1cfc8bef3a4297bdf9b43bf969d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63b9d483f6ce46651483ae22c4d91efa') in 0.012713 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000231 seconds.
-  path: Assets/Resources/Audios/Esquizofrenia/Comentarios negativos/Estás solo.mp3
-  artifactKey: Guid(50118dc10cbdbdf479e9c47a358e9931) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios negativos/Estás solo.mp3 using Guid(50118dc10cbdbdf479e9c47a358e9931) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4675bbf39879e9db01eb831daad1f27c') in 0.009765 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000216 seconds.
-  path: Assets/Resources/Audios/Esquizofrenia/Comentarios negativos/Solo te quieren por el interés.mp3
-  artifactKey: Guid(42aa5e6e533f8974a80831ef6276df94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios negativos/Solo te quieren por el interés.mp3 using Guid(42aa5e6e533f8974a80831ef6276df94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6864dc7c08d8b93c34dd455a6c364158') in 0.009689 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000120 seconds.
-  path: Assets/Resources/Audios/Esquizofrenia/Comentarios negativos/La gente se ríe de ti.mp3
-  artifactKey: Guid(08c62bad24ef78b4b979a4d5dba63a7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios negativos/La gente se ríe de ti.mp3 using Guid(08c62bad24ef78b4b979a4d5dba63a7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83afdda625a3a3055e0012f69bacef82') in 0.015391 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000119 seconds.
-  path: Assets/Resources/Audios/Esquizofrenia/Comentarios negativos/No te mereces una casa asi.mp3
-  artifactKey: Guid(f653b5bb96ed5c849b438c24634d8592) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios negativos/No te mereces una casa asi.mp3 using Guid(f653b5bb96ed5c849b438c24634d8592) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47ed96fad9dafd22fcfe7e5d494ec55d') in 0.016266 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000137 seconds.
-  path: Assets/Resources/Audios/Esquizofrenia/Comentarios negativos/Te equivocaste.mp3
-  artifactKey: Guid(7d33f5c696e49be4bb52b10055bc7894) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios negativos/Te equivocaste.mp3 using Guid(7d33f5c696e49be4bb52b10055bc7894) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c08f8c0e46607ce3122c59fb0df982c') in 0.018602 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000227 seconds.
-  path: Assets/Resources/Audios/Esquizofrenia/Comentarios negativos/Tus padres no te quieren.mp3
-  artifactKey: Guid(1026e4c541ef0ad479ef46f9372f0ef4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios negativos/Tus padres no te quieren.mp3 using Guid(1026e4c541ef0ad479ef46f9372f0ef4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad56701f4827b8233b68ae835f9f5629') in 0.013628 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000205 seconds.
-  path: Assets/Resources/Audios/Esquizofrenia/Comentarios negativos/Quitate las gafas.mp3
-  artifactKey: Guid(0317085b89f9b344489398a6aac56b30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios negativos/Quitate las gafas.mp3 using Guid(0317085b89f9b344489398a6aac56b30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7c92e23301f70a1c2d9fd7ce66bac48') in 0.014256 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000144 seconds.
-  path: Assets/Resources/Audios/Esquizofrenia/Comentarios negativos/Todo mal todo mal.mp3
-  artifactKey: Guid(b3e1d8a44de75994681052ab3ca3088d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios negativos/Todo mal todo mal.mp3 using Guid(b3e1d8a44de75994681052ab3ca3088d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe77bdbc9f9aad9c19409d9018d7e9f5') in 0.013605 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000153 seconds.
-  path: Assets/Resources/Audios/Esquizofrenia/Comentarios negativos/No sirves para nada.mp3
-  artifactKey: Guid(f3f66764b996dc74f85f13a49c9f600f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios negativos/No sirves para nada.mp3 using Guid(f3f66764b996dc74f85f13a49c9f600f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d8c3587c692d095a57b057b630a175f') in 0.014159 seconds 
+  path: Assets/Prefabs/UI/Canvas.prefab
+  artifactKey: Guid(811ddf320b7dbbb45889b2af9934ad49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/UI/Canvas.prefab using Guid(811ddf320b7dbbb45889b2af9934ad49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3349f16ac1ebf469155be9b3e0d673f4') in 0.043513 seconds 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000125 seconds.
-  path: Assets/Resources/Audios/Esquizofrenia/Comentarios negativos/No lo vas a conseguir.mp3
-  artifactKey: Guid(33a28c74da670ce40b072e1bd73b643d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios negativos/No lo vas a conseguir.mp3 using Guid(33a28c74da670ce40b072e1bd73b643d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6583660f6627361852c6f90f89e60510') in 0.014470 seconds 
+  path: Assets/Prefabs/UI
+  artifactKey: Guid(47e8790f0c2e73745bcf91981feca85c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/UI using Guid(47e8790f0c2e73745bcf91981feca85c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d7dddc2defc492549c1219da14a1ec7') in 0.006470 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000214 seconds.
-  path: Assets/Resources/Audios/Esquizofrenia/Comentarios negativos/Esto no es real.mp3
-  artifactKey: Guid(f8d4218155b5c1549afb8559fdc49d80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios negativos/Esto no es real.mp3 using Guid(f8d4218155b5c1549afb8559fdc49d80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd948e8af665cbd4ad68a7a077968beeb') in 0.013305 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000166 seconds.
-  path: Assets/Resources/Audios/Esquizofrenia/Comentarios negativos/Lo has hecho mal.mp3
-  artifactKey: Guid(b9387b5043eb8d64cad71cabf354aad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios negativos/Lo has hecho mal.mp3 using Guid(b9387b5043eb8d64cad71cabf354aad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a40ad01c3fb974114aa931ddec6e6e9f') in 0.009192 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000136 seconds.
-  path: Assets/Resources/Audios/Esquizofrenia/Comentarios negativos/La has liado.mp3
-  artifactKey: Guid(d27245c899ab5ad46b62dc96bf58b3fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Audios/Esquizofrenia/Comentarios negativos/La has liado.mp3 using Guid(d27245c899ab5ad46b62dc96bf58b3fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a20d47d8dfceef69dc0c07385a65c86') in 0.009205 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001646 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.22 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.682 seconds
-Domain Reload Profiling:
-	ReloadAssembly (683ms)
-		BeginReloadAssembly (82ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (2ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (21ms)
-		EndReloadAssembly (565ms)
-			LoadAssemblies (68ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (157ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (23ms)
-			SetupLoadedEditorAssemblies (283ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (3ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (0ms)
-				BeforeProcessingInitializeOnLoad (46ms)
-				ProcessInitializeOnLoadAttributes (226ms)
-				ProcessInitializeOnLoadMethodAttributes (6ms)
-				AfterProcessingInitializeOnLoad (2ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (1ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.25 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1335 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 69.0 MB.
-System memory in use after: 69.1 MB.
-
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1802.
-Total: 2.063800 ms (FindLiveObjects: 0.073000 ms CreateObjectMapping: 0.026400 ms MarkObjects: 1.949200 ms  DeleteObjects: 0.014500 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  Time since last request: 11.850367 seconds.
+  path: Assets/Resources/Prefabs
+  artifactKey: Guid(15aa615e1825aee4984c6b6ce2c7d915) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Prefabs using Guid(15aa615e1825aee4984c6b6ce2c7d915) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd05c285a91a9c33e1e9ad84e5dfad87c') in 0.007560 seconds 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
