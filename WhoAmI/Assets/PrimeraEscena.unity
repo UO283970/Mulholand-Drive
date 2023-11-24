@@ -1476,7 +1476,7 @@ MonoBehaviour:
   controller: {fileID: 953048002}
   speed: 6
   gravity: -9.81
-  jumpHeight: 2
+  jumpHeight: 0
   goal: RabbitHole
   nextScene: Menu
 --- !u!136 &2129530922
