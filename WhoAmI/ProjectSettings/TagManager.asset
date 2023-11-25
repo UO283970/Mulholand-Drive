@@ -3,7 +3,15 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Collectable
+  - PuertasEntrada
+  - PuertaComedor
+  - "PuertaBa\xF1o"
+  - PuertaCocina
+  - PuertaBodega
+  - PuertaGaraje
+  - PuertaEstudio
   layers:
   - Default
   - TransparentFX
