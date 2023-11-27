@@ -19,11 +19,7 @@ public class Movement : MonoBehaviour
     public float gravity = -9.81f;
     public float jumpHeight = 2f;
 
-    public string goal ="RabbitHole";
-    public string nextScene = "Menu"; 
-
     Vector3 velocity;
-   
 
     // Start is called before the first frame update
     void Start()
@@ -60,14 +56,5 @@ public class Movement : MonoBehaviour
             animation.SetBool("isWalking", false);
             animation.SetBool("isStanding", true);
         }
-    }
-
-    public void OnControllerColliderHit(ControllerColliderHit hit)
-    {
-        if (hit.gameObject.CompareTag(goal))
-        {
-            Debug.Log("I'm Late & Down the Rabbit Hole");
-            SceneManager.LoadScene(nextScene);
-        }        
     }
 }
