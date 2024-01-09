@@ -28,6 +28,8 @@ public class LookAround : MonoBehaviour
         float mouseX = Input.GetAxis("Mouse X") * mouseSpeed * Time.deltaTime;
         float mouseY = Input.GetAxis("Mouse Y") * mouseSpeed * Time.deltaTime;
 
+          Debug.Log("Mouse Y: " + mouseY); // Agrega esta línea para depurar
+
         xRotation -= mouseY;
         xRotation = Mathf.Clamp(xRotation, -90f, 90f);
 

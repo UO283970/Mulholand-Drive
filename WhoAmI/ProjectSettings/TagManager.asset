@@ -12,6 +12,11 @@ TagManager:
   - PuertaBodega
   - PuertaGaraje
   - PuertaEstudio
+  - Botones
+  - NPC
+  - NPC2
+  - NOVA
+  - NPC3
   layers:
   - Default
   - TransparentFX
