@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.google.xr.cardboard": "file:C:/Users/garab/Downloads/GoogleVR2023/Library/PackageCache/com.google.xr.cardboard@d9f0aa2eb0",
     "com.unity.collab-proxy": "2.0.5",
     "com.unity.ide.rider": "3.0.18",
     "com.unity.ide.visualstudio": "2.0.17",
