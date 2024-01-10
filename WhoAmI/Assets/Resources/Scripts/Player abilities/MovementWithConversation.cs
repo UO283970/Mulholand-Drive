@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Security.Cryptography;
 using System.Security;
@@ -25,12 +26,13 @@ public class MovementWithConversation : MonoBehaviour
     public string nextScene = "MenuVR"; 
 
     Vector3 velocity;
+    Animator animation;
    
 
     // Start is called before the first frame update
     void Start()
     {
-        
+        animation = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -50,6 +52,20 @@ public class MovementWithConversation : MonoBehaviour
                     
                     velocity.y += gravity * Time.deltaTime;
                     controller.Move(velocity * Time.deltaTime);
+
+                    if(Math.Abs(x) < 1 && Math.Abs(z) < 1 && (Math.Abs(x) > 0 || Math.Abs(z) > 0)){
+                        animation.SetBool("isRunning", false);
+                        animation.SetBool("isWalking", true);
+                        animation.SetBool("isStanding", false);
+                    } else if(Math.Abs(x) == 1 || Math.Abs(z) == 1){
+                        animation.SetBool("isRunning", true);
+                        animation.SetBool("isWalking", false);
+                        animation.SetBool("isStanding", false);
+                    } else{
+                        animation.SetBool("isRunning", false);
+                        animation.SetBool("isWalking", false);
+                        animation.SetBool("isStanding", true);
+                    }
         }
     }
 
